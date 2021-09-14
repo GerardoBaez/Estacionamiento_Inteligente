@@ -19,7 +19,7 @@ espacios están disponibles.
 
 # Informacion General
 La placa Nodemcu registra los cambios de estado de los 2 componentes conectados a ella(Sensor Pir,Dipswitch) actualiza el documento correspondiente
-en la base de datos (ArangoDb) y al mismo tiempo manda un mensaje para actualizar el dashboard en el sitio web.
+en la base de datos (ArangoDb) y al mismo tiempo manda un mensaje mediante el protocolo MQTT para actualizar el dashboard en el sitio web.
 
 # Tecnologias
 
